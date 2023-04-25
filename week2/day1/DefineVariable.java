@@ -1,4 +1,4 @@
-package com.example.javaproject3.week2;
+package com.example.javaproject3.week2.day1;
 
 public class DefineVariable {
     public static void main(String[] args) {
