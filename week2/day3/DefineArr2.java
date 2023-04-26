@@ -9,6 +9,7 @@ public class DefineArr2 {
         int[][] arr2 = {{10,20,30}, {40,50,60}, {70,80,90}};
         int[] arr0 = arr2[0];
         arr0[0] = 1;
+        arr2[0][1] = 2;
 
         System.out.println(Arrays.toString(arr2[0]));
         System.out.println(Arrays.toString(arr2[1]));
